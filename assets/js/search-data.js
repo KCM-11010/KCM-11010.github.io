@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-on-canonicalization-in-geometric-deep-learning",
+        
+          title: "On Canonicalization in Geometric Deep Learning",
+        
+        description: "Equivariant neural networks are powerful tools for machine learning tasks involving data with inherent symmetries. Their power stems from their ability to encode known transformations directly into their architecture, providing a strong inductive bias, especially in domains like physics, chemistry, and computer vision. This blog post delves into recent research addressing some of the key challenges that arise when applying these models.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/20244091/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
