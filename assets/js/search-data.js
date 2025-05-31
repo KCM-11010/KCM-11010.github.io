@@ -58,21 +58,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-ai810-blog-post-20244091-on-canonicalization-in-geometric-deep-learning",
+        },{id: "post-ai810-blog-post-20244091-on-canonicalization-in-geometric-deep-learning",
         
           title: "AI810 Blog Post (20244091) On Canonicalization in Geometric Deep Learning",
         
